@@ -1,7 +1,11 @@
-<!DOCTYPE html>
+
 
 div {
     background: url(https://www.choicehotels.com/cms/images/choice-hotels/colleges/589164-University-of-Southern-California/589164-University-of-Southern-California.jpg);
     background-size: 80px 60px;
     background-repeat: no-repeat;
+}
+
+div {
+  text-align: center
 }
